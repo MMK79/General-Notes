@@ -7,3 +7,4 @@ My Telegram Channel for Updates[@NotebyMasoud](https://t.me/NotebyMasoud)
 * Open this repo as a Vault with [Obsidian](https://obsidian.md/download)
   * [Enable Community Plugins in Obsidian](https://help.obsidian.md/Extending+Obsidian/Community+plugins) 
 # Check Content List
+Check the Content List.md for getting access to the contents

@@ -19,3 +19,5 @@
 * [[How to learn 10 finger Typing]]
 ## Learn Obsidian
 * [Leran Obsidian]
+## Interview & Resume
+* [[How to write a Resume]]
